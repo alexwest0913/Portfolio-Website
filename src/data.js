@@ -6,7 +6,7 @@ export const projects = [
   },
   {
     id: 2,
-    img: 'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vwcb62fcyj82sghoazir',
+    img: 'https://zealofficial.com/cdn/shop/files/zeal_logo_2022_small_c54ea19d-8b87-4bcc-a717-8330187532d3_1200x.png?v=1657357490',
     link: 'https://stately-brigadeiros-2783df.netlify.app',
   },
   {
